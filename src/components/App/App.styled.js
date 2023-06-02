@@ -1,9 +1,9 @@
 import styled from '@emotion/styled';
 
 const Container = styled.div`
-  border: 1px solid red;
   width: 500px;
   margin: auto;
+  padding-bottom: 30px;
 `;
 
 export { Container };
